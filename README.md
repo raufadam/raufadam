@@ -1,17 +1,77 @@
-# Hi there, I'm Rauf Adam! 👋
+# Hi, I'm Rauf Adam 👋
 
+💻 Tech enthusiast | Systems learner | Security minded
 
-## About Me 🚀
+I'm passionate about understanding **how computers actually work** beneath the surface.  
+My interests revolve around **low-level programming, computer security, and computer systems**.
 
-I'm a passionate **Student Learning to code in low level languages, I'm currently learning c and I'm planning on leaarning rust when I'm comfortable with Programming in general.** I'm good in **Basic Linux concepts**. I love tackling complex problems, learning new skills, I'm looking forward to collaborating with people with more experience so that i can learn from them and improve my skills.
+I enjoy exploring the fundamentals of computing, writing code close to the machine, and constantly learning new concepts that help me understand systems better.
 
-- 🌱 Currently learning: **C PROGRAMMING A Modern Approach and Computer Systems A Programmers Perspective.**
-- 🔭 Working on: **I'm currently improving my skills in **Advanced c concepts**. 
-- 🌍 Languages: currently **c**
-- 📫 How to reach me: **raufadam@proton.me**
-- ⚡ Fun fact: **I'm very bad in math, but i magically understands every math concept when it appears in my programming studies**
+---
 
-## My Skills
-- I'm a bit good in using **Photoshop**.
-- I Know some **HTML** and **CSS**
-- I'm progressing in my **Linux** skills.
+## 🚀 About Me
+
+- 🔍 Interested in **low-level programming**
+- 🛡️ Learning **computer security and defensive techniques**
+- ⚙️ Curious about **how operating systems and hardware interact**
+- 🐧 Linux user who enjoys working in the **command line**
+- 📚 Always learning and experimenting with new ideas
+
+---
+
+## 🧠 Current Learning Focus
+
+- Systems Programming
+- Computer Architecture
+- Cryptography
+- Operating Systems
+- Linux Internals
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🧩 Skills
+
+- C Programming
+- Linux Command Line
+- Computer Systems Fundamentals
+- HTML & CSS
+- Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+![Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaufAdam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaufAdam&layout=compact&theme=tokyonight)
+
+---
+
+## 🐧 Linux
+
+Yes...  
+
+> **I use Arch BTW.**
+
+---
+
+## 📫 Contact
+
+📧 raufadam@proton.me
+
+---
+
+## ⚡ Philosophy
+
+> “The deeper you understand how systems work, the more powerful your tools become.”
