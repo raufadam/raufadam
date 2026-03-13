@@ -23,7 +23,6 @@ I enjoy exploring the fundamentals of computing, writing code close to the machi
 
 - Systems Programming
 - Computer Architecture
-- Cryptography
 - Operating Systems
 - Linux Internals
 
@@ -52,7 +51,7 @@ I enjoy exploring the fundamentals of computing, writing code close to the machi
 
 ## 📊 GitHub Stats
 
-![Rauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaufAdam&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RaufAdam&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaufAdam&layout=compact&theme=tokyonight)
 
